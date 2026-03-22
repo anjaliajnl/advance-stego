@@ -1,0 +1,12 @@
+2026-03-21 19:43:07,427 - StegoSecure - INFO - Starting DCT encoding for C:\Users\ANJALI~1\AppData\Local\Temp\tmpa2bldhre.jpg
+2026-03-21 19:43:07,856 - StegoSecure - INFO - Successfully built secure payload.
+2026-03-21 19:43:08,165 - StegoSecure - INFO - DCT encoding successful. Saved to C:\Users\ANJALI~1\AppData\Local\Temp\tmpa2bldhre_stego_dct.png
+2026-03-21 19:47:53,661 - StegoSecure - INFO - Starting DCT encoding for C:\Users\ANJALI~1\AppData\Local\Temp\tmpzrlcs3w7.jpg
+2026-03-21 19:47:54,133 - StegoSecure - INFO - Successfully built secure payload.
+2026-03-21 19:47:54,408 - StegoSecure - INFO - DCT encoding successful. Saved to C:\Users\ANJALI~1\AppData\Local\Temp\tmpzrlcs3w7_stego_dct.png
+2026-03-21 19:49:01,382 - StegoSecure - INFO - Starting DCT decoding for C:\Users\ANJALI~1\AppData\Local\Temp\tmpkluermaf.png
+2026-03-21 19:49:01,826 - StegoSecure - INFO - Successfully parsed and decrypted secure payload.
+2026-03-21 19:49:01,827 - StegoSecure - INFO - DCT decoding successful. Message recovered.
+2026-03-21 19:49:28,755 - StegoSecure - INFO - Starting DCT encoding for C:\Users\ANJALI~1\AppData\Local\Temp\tmpd9b6qz57.jpg
+2026-03-21 19:49:29,068 - StegoSecure - INFO - Successfully built secure payload.
+2026-03-21 19:49:29,354 - StegoSecure - INFO - DCT encoding successful. Saved to C:\Users\ANJALI~1\AppData\Local\Temp\tmpd9b6qz57_stego_dct.png
